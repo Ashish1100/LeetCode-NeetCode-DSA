@@ -22,6 +22,5 @@ public:
 // TC: O(nlogn)
 // SC: O(1)
 
-Link: https://youtu.be/0LIctkgJ2hQ?si=g9q3gxMvGXPnLxbk
 
 
