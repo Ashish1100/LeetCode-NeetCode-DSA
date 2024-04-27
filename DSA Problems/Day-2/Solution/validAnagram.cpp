@@ -15,7 +15,7 @@ bool isAnagram(string s, string t)
             counts[t[i] - 'a']--;
         }
         
-        for(int count : counts) // Changed count to counts, and removed the extra for loop
+        for(int count : counts) 
         {
             if(count != 0)
             {
